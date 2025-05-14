@@ -20,9 +20,13 @@ education-economic-prosperity-analysis/
 ├── notebook
 │ ├── final_project
 ├── figures/ # Exported PNGs of key plots
-│ ├── surface.png
+│ ├── 3D_surface.png
 │ ├── residual_scatter.png
-│ └── cluster_heatmaps.png
+│ ├── cluster_heatmaps1.png
+│ ├── cluster_heatmaps2.png
+│ ├── population_bubble.png
+│ ├── corr_matrix.png
+│ └── pairwise.png
 ├── requirements.txt # Python dependencies
 ├── .gitignore # Ignore cache, checkpoints, raw data as needed
 └── README.md # This file
